@@ -1,0 +1,13 @@
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.exe
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.deps.json
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.runtimeconfig.json
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.runtimeconfig.dev.json
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.dll
+C:\Users\battl\source\repos\Cursuri\Curs3\bin\Debug\netcoreapp3.1\Curs3.pdb
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.csprojAssemblyReference.cache
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.AssemblyInfoInputs.cache
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.AssemblyInfo.cs
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.csproj.CoreCompileInputs.cache
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.dll
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.pdb
+C:\Users\battl\source\repos\Cursuri\Curs3\obj\Debug\netcoreapp3.1\Curs3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.exe
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.deps.json
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.runtimeconfig.json
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.runtimeconfig.dev.json
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.dll
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\bin\Debug\netcoreapp3.1\Curs7Tema2.pdb
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.csprojAssemblyReference.cache
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.AssemblyInfoInputs.cache
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.AssemblyInfo.cs
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.csproj.CoreCompileInputs.cache
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.dll
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.pdb
+C:\Users\battl\source\repos\Cursuri\Curs7Tema2\obj\Debug\netcoreapp3.1\Curs7Tema2.genruntimeconfig.cache
